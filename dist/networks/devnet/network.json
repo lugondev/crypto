@@ -1,0 +1,18 @@
+{
+  "name": "devnet",
+  "messagePrefix": "GUL message:\n",
+  "bip32": {
+    "public": 46090600,
+    "private": 46089520
+  },
+  "pubKeyHash": 30,
+  "nethash": "d0be4a28246b671d3aeb0e95a402a0ba093b39df43a3365e68bf4b8c212995fa",
+  "wif": 4,
+  "slip44": 1,
+  "aip20": 1,
+  "client": {
+    "token": "GUL",
+    "symbol": "Ø",
+    "explorer": "http://0.0.0.0:4200"
+  }
+}

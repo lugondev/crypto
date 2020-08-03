@@ -1,0 +1,18 @@
+{
+  "name": "testnet",
+  "messagePrefix": "GUL message:\n",
+  "bip32": {
+    "public": 70617039,
+    "private": 70615956
+  },
+  "pubKeyHash": 65,
+  "nethash": "34c7f7b79264003821909e29f0c20a45588de3341fb4883c5a11e56f2446638f",
+  "wif": 126,
+  "slip44": 1,
+  "aip20": 0,
+  "client": {
+    "token": "GUL",
+    "symbol": "Ø",
+    "explorer": "http://0.0.0.0:4200"
+  }
+}

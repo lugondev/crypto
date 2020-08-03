@@ -1,0 +1,18 @@
+{
+  "name": "mainnet",
+  "messagePrefix": "GUL message:\n",
+  "bip32": {
+    "public": 46090600,
+    "private": 46089520
+  },
+  "pubKeyHash": 58,
+  "nethash": "206265d208f89dc4788f6e489020e3408b75fdb5a72ae438df68e956acfec3c8",
+  "wif": 105,
+  "slip44": 111,
+  "aip20": 0,
+  "client": {
+    "token": "GUL",
+    "symbol": "Ø",
+    "explorer": "http://0.0.0.0:4200"
+  }
+}
