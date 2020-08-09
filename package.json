@@ -1,5 +1,5 @@
 {
-    "name": "@blc/crypto",
+    "name": "@chain/crypto",
     "version": "2.6.27",
     "description": "Crypto utilities for the Blockchain",
     "license": "MIT",
