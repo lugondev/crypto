@@ -1,7 +1,7 @@
 {
     "name": "@blc/crypto",
     "version": "2.6.27",
-    "description": "Crypto utilities for the Qredit Blockchain",
+    "description": "Crypto utilities for the Blockchain",
     "license": "MIT",
     "contributors": [
         "François-Xavier Thoorens <fx.thoorens@ark.io>",
