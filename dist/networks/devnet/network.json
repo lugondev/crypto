@@ -6,8 +6,8 @@
     "private": 46089520
   },
   "pubKeyHash": 30,
-  "nethash": "d0be4a28246b671d3aeb0e95a402a0ba093b39df43a3365e68bf4b8c212995fa",
-  "wif": 4,
+  "nethash": "6650eb1041daa7da81dc5b1dfee8fdc8475313dde842b5792e3ef69aa106e219",
+  "wif": 123,
   "slip44": 1,
   "aip20": 1,
   "client": {
